@@ -1,3 +1,8 @@
-this is a test.
-now let us take a change.
-take a new one.
+1.git status
+2.git init
+3.git add
+4.git mv
+5.git reset
+6.git commit -m ""
+7.git checkout
+8.git log
