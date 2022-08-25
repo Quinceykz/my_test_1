@@ -3,13 +3,15 @@
 3.git add
 4.git mv
 5.git reset
-6.git commit -m ""
+6.git commit -m "_xxx"
 7.git checkout
 8.git log
 9.git remote -v
-10.git remote add origin git@server-name:path/repo-name.git
-11.git push -u origin master
-12.git push origin master
+10.git remote add origin_xxx git@server-name_xxx:path_xxx/repo-name_xxx.git
+11.git push -u origin_xxx master_xxx
+12.git push origin_xxx master_xxx
+13.git relog
+14.git reset --hard commit_id__xxx
 edition 1
 edition 2
 edition 3
