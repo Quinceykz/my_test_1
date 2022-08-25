@@ -4,7 +4,7 @@
 4.git mv
 5.git reset
 6.git commit -m "_xxx"
-7.git checkout
+7.git checkout -- order_git.txt_xxx
 8.git log
 9.git remote -v
 10.git remote add origin_xxx git@server-name_xxx:path_xxx/repo-name_xxx.git
