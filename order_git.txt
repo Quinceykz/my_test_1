@@ -12,6 +12,7 @@
 12.git push origin_xxx master_xxx
 13.git relog
 14.git reset --hard commit_id__xxx
+15.git diff HEAD -- order_git.txt__xxx
 edition 1
 edition 2
 edition 3
