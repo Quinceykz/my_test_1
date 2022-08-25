@@ -10,4 +10,4 @@
 10.git remote add origin git@server-name:path/repo-name.git
 11.git push -u origin master
 12.git push origin master
-
+edition 1
